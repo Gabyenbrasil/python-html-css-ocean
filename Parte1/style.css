@@ -3,3 +3,6 @@ body {
     font-size: large;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+img {
+    width: 300px;
+}
